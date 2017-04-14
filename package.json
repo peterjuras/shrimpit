@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "snazzy": "6.0.0",
-    "standard": "10.0.1"
+    "standard": "10.0.2"
   },
   "bin": {
     "shrimpit": "index.js"
